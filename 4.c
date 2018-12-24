@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//°½Ãiª© 
+//åè½‰(æ¥µç°¡ç‰ˆ)
 int main (){
 	char str[100];
 	scanf ("%s",str);
