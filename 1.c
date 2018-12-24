@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//Êï∏Â≠óËΩâ‰∏≠Êñá
 int main(){
 	int num,ones,tens;
 	scanf ("%d",&num);
@@ -9,59 +9,59 @@ int main(){
 		case 1:
 			break;
 		case 2:
-			printf ("§G");
+			printf ("‰∫å");
 			break;
 		case 3:
-			printf ("§T");
+			printf ("‰∏â");
 			break;
 		case 4:
-			printf ("•|");
+			printf ("Âõõ");
 			break;
 		case 5:
-			printf ("§≠");
+			printf ("‰∫î");
 			break;
 		case 6:
-			printf ("§ª");
+			printf ("ÂÖ≠");
 			break;
 		case 7:
-			printf ("§C");
+			printf ("‰∏É");
 			break;
 		case 8:
-			printf ("§K");
+			printf ("ÂÖ´");
 			break;
 		case 9:
-			printf ("§E");
+			printf ("‰πù");
 			break;
 	}
-	printf ("§Q");
+	printf ("ÂçÅ");
 	if (ones != 0){
 		switch (ones){
 		case 1:
-			printf ("§@");
+			printf ("‰∏Ä");
 			break;
 		case 2:
-			printf ("§G");
+			printf ("‰∫å");
 			break;
 		case 3:
-			printf ("§T");
+			printf ("‰∏â");
 			break;
 		case 4:
-			printf ("•|");
+			printf ("Âõõ");
 			break;
 		case 5:
-			printf ("§≠");
+			printf ("‰∫î");
 			break;
 		case 6:
-			printf ("§ª");
+			printf ("ÂÖ≠");
 			break;
 		case 7:
-			printf ("§C");
+			printf ("‰∏É");
 			break;
 		case 8:
-			printf ("§K");
+			printf ("ÂÖ´");
 			break;
 		case 9:
-			printf ("§E");
+			printf ("‰πù");
 			break;
 		}
 	}
