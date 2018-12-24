@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-//¦C¥X1~nªº©Ò¦³½è¼Æ
+//1~1000çš„è³ªæ•¸
 
 int main(){
 	int n,x,y,num=0;
