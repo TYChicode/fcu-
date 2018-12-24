@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//測質數
 int prime(int N){
 	int k,val = 0;
 	for (k = 2;k <= sqrt(N);k++){
