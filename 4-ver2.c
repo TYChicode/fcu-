@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-//¥¿³Wª© 
+//åè½‰(å®Œæ•´ç‰ˆ)
 void change(char word[100]){
 	int k,length;
 	char wordnew[100]={0};
